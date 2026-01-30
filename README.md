@@ -1,4 +1,4 @@
-# <!DOCTYPE html>
+# <HAPPY BIRTHDAY>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -257,7 +257,7 @@
             <div class="text-6xl md:text-8xl mb-2 animate-bounce">🎉</div>
             <h1 class="text-4xl md:text-5xl font-bold mb-2">Happy Birthday!</h1>
             <p class="text-gray-300 text-lg md:text-xl leading-relaxed">
-                aapki life ka ek or nyaa saaal..! Bass is saal se meri jesi pyaari ldko mil gai aapko! Hihi!
+                aapki life ka ek or nyaa saaal..! Bass is saal meri jesi pyaari ldki mil gai aapko! Hihi!
             </p>
             <button class="btn-primary mt-4" onclick="nextStep(3)">There's more...</button>
         </div>
@@ -273,7 +273,7 @@
                 
                 <div class="bento-card">
                     <h3 class="text-xl text-pink-300 font-serif mb-2">😊 That Smile</h3>
-                    <p class="text-sm text-gray-400">sigma or mature chorke pookie and hihihaha bane rahe!.</p>
+                    <p class="text-sm text-gray-400">sigma or mature chorke!.., pookie and hihihaha bane rahe!.</p>
                 </div>
 
                 <div class="bento-card bento-span-2">
@@ -289,7 +289,7 @@
             <div class="text-6xl md:text-8xl mb-2">🎂</div>
             <h1 class="text-4xl md:text-5xl font-bold mb-2">My Wish For You</h1>
             <p class="text-gray-300 text-lg md:text-xl leading-relaxed mb-6">
-                ye saal aane wala saal uske baad aane wala saal sb mst jaaye aapke ! Hmaari aasha h aapko aapke sapne haasil ho and mai bhi ! Hihi! Jaldi aapki job lage khwaaise poori ho fir duniya bhi to ghummi h
+                ye saal, Aane wala saal, uske baad aane wala saal, sb mst jaaye aapke ! Hmaari aasha h aapko aapke sapne haasil ho and... mai bhi ! Hihi! Jaldi aapki job lage khwaaise poori ho fir duniya bhi to ghumni h
             </p>
             
             <button id="celebrateBtn" class="btn-primary text-xl px-10 py-4" onclick="celebrate()">Celebrate!</button>
